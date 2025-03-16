@@ -1,8 +1,13 @@
 # Immobilier Price Detection
 
-Frontend web app to estimate the price of an real estate property
+Frontend web app to estimate the price of an real estate property (in french language)
 
 Note that this webapp requires usage of an api, it's available from this repo [PriceImmoPredictAPI](https://github.com/Nic0ooo/PriceImmoPredictAPI.git)
+
+
+Preview of the React GUI
+
+![React GUI preview](./public/preview-react-gui.png)
 
 ----------------------------------------------------------------
 
